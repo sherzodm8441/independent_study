@@ -37,7 +37,7 @@ private class keyAdapter extends KeyAdapter  {
 Demo:
 ![rocket_gif](images/rocket_demo_gif.gif)
 
-My goals regarding the animation of this sprite is that I want to fix it so that it does not leave streak on the left side (or any for that matter) and I want to restrict the domain preferably between zero and the width of the window. 
+My goals regarding the animation of this sprite is that I want to fix it so that it does not leave a streak on the left side (or any side for that matter) and I want to restrict the domain preferably between zero and the width of the window. 
 
 ## TAKEAWAYS
 
