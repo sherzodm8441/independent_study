@@ -24,7 +24,7 @@ public void checkCollision(){
 
 Then to make sure that I could make something with it, I made a half baked scoring system which I will change once I add the astronauts to the game. 
 
-![collision_demo](images/collision_demo.mp4)
+![collision_demo](images/collision_demo_gif.gif)
 
 ## TAKEAWAYS
 
