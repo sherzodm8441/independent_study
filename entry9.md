@@ -2,7 +2,7 @@
 
 This week I was very productive, I'm pretty sure it was because of the deadline. (But I digress). I was able to finish my MVP and so far it's working the way I want it to. 
 
-I am not going to include code in this blog because there is just a lot that I added. So instead I will upload the code for the game to GitHub once I figure out how to do that from my local Java IDE (so check for as well). 
+I am not going to include code in this blog because there is just a lot that I added. So instead I will upload the code for the game to GitHub once I figure out how to do that from my local Java IDE (repo name: JAVASpaceShipGameMVP). 
 
 I will just list the changes I have made this week:
 * Now there are obstacles on both sides
